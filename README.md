@@ -341,18 +341,14 @@ docker compose -f docker/docker-compose.yml up
 
 ## 👤 Author
 
-**Subham Sahu**
+**Suresh Kumar**
 Data Science & Analytics Intern — [Zidio Development](https://zidio.in)
-*(Internship ID: ZIDIOaSR8Lh | May–June 2026)*
+*(May–June 2026)*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Subham503-black?logo=github)](https://github.com/Subham503)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subham%20Sahu-blue?logo=linkedin)](https://www.linkedin.com/in/subham-sahu-b4a872325/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sureshkumar02-black?logo=github)](https://github.com/Sureshkumar002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suresh%Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/Suresh--kumar/)
 
 ---
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
